@@ -49,6 +49,6 @@ Add screenshots in `/screenshots/` folder, named like:
 
 **Gokulraj R**  
 Full Stack Developer | 45+ Projects Completed  
-📍 Tamil Nadu, India  
+📍 Salem, Tamil Nadu, India  
 🔗 GitHub: [github.com/RGR2005](https://github.com/RGR2005)  
 🔗 LinkedIn: [linkedin.com/in/gokulraj-r-rgr](https://linkedin.com/in/gokulraj-r-rgr)
